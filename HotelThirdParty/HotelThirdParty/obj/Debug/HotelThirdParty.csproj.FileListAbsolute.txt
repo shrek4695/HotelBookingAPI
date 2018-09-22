@@ -1,0 +1,16 @@
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\bin\HotelThirdParty.dll.config
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\bin\HotelThirdParty.dll
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\bin\HotelThirdParty.pdb
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\obj\Debug\HotelThirdParty.csprojResolveAssemblyReference.cache
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\obj\Debug\HotelThirdParty.csproj.CoreCompileInputs.cache
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\obj\Debug\HotelThirdParty.dll
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\obj\Debug\HotelThirdParty.pdb
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\bin\Cassandra.dll
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\bin\LZ4.dll
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\bin\Microsoft.Extensions.Logging.dll
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\bin\Cassandra.xml
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\bin\Microsoft.Extensions.Logging.xml
+C:\Users\skapoor\source\repos\HotelThirdParty\HotelThirdParty\bin\Microsoft.Extensions.Logging.Abstractions.xml
