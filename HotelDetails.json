@@ -1,0 +1,29 @@
+[
+	{
+		"hotel_id":1,
+		"name":"Hyatt Regency",
+		"amenities":"A.C, Swimming Pool,Gym,Spa",
+		"city":"Pune",
+		"image":"hyattlogo",
+		"landmark":"Wiekfield InfoCity Park",
+		"location":"Viman Nagar",
+		"pincode":411014,
+		"policies":"Check in 11:00 a.m Check out 10:00 a.m",
+		"rating":4,
+		"state":"Maharashtra"
+	},
+
+	{
+		"hotel_id":2,
+		"name":"Cosmos Luxury",
+		"amenities":"A.C,Laundry,Food",
+		"city":"Pune",
+		"image":"cosmoslogo",
+		"landmark":"Smoking Joe's",
+		"location":"Viman Nagar",
+		"pincode":411014,
+		"policies":"Check in 11:00 a.m Check out 10:00 a.m",
+		"rating":3,
+		"state":"Maharashtra"	
+	}
+]
